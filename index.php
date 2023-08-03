@@ -1,4 +1,5 @@
 <?php
-header('Location: http://localhost/lojasgeoana/view/loja.php');
+die;
+header('Location: http://localhost/loja.php');
 exit;
 ?>
